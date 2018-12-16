@@ -1,0 +1,14 @@
+include <iostream>
+include <string>
+using namespace std;
+
+int main () {
+
+ int a;
+ 
+	cout << "test:";o
+	cin >> a;
+	cout << a;
+	
+	return 0
+	}
